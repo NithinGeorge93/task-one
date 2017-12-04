@@ -283,6 +283,18 @@ a:hover , a:active {
 .enquire-box .enquire-now {
 	border:1px solid #fff;
 	padding: 5px;
+	width: 100%;
+	padding: 10px;
+}
+
+.footer-share ul li i:hover {
+	color: #52bedf;
+	border:2px solid #52bedf;
+}
+
+.enquire-box .enquire-now:hover {
+	background-color: #1f325e;
+	color: #fff
 }
 
 .underline-none {
@@ -307,9 +319,7 @@ a:hover , a:active {
 
 .brands li img {
 	margin: 0px auto;
-	width: 40%;
 	height: 40px;
-
 }
 
 .dark-blue {
@@ -615,10 +625,6 @@ a:hover , a:active {
 		width: 100%;
 	}
 
-	.brands li img {
-		width: 85%;
-	}
-
 	.generator {
 		top: 37%;
 		right: 47%;
@@ -709,10 +715,6 @@ a:hover , a:active {
 
 	.three-little {
 		margin-bottom: 30px;
-	}
-
-	.brands li img {
-		width: 60%;
 	}
 
 	.brands li{
